@@ -1,4 +1,4 @@
-# occupancy-review
+# occupancy-camtrap
 
 Code for the paper *Which camera-trap images to review? Estimating occupancy from a small part of a survey* (Tabak, in preparation). It reproduces every experiment in the paper:
 
