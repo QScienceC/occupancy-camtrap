@@ -1,0 +1,1577 @@
+# SpeciesNet's names (the app's) and the Nkhotakota Camera Traps category each one's taxon falls
+# in, for occupancy_bench.py on the Nkhotakota survey (fetch_nkhotakota_occupancy.py). Made from
+# SpeciesNet v4.0.3a's taxonomy by a one-off script, by the rules of oregon_critters_names.csv: a
+# name maps to the narrowest category its taxon falls in (any Herpestidae is "mongoose", any
+# Galagidae "galago", any Genetta "genet", any Sciuridae "squirrel", any bat "bat", and any bird
+# without a category of its own "bird"). A broader name maps only when a single category lies
+# within it ("Baboon species" is yellow_baboon; "Bovidae family" maps to nothing), except that
+# "Bird" is "bird", the dataset's catch-all. Another species of a category's genus ("Olive
+# baboon", "Harvey's duiker") maps to nothing: a wrong species. small_antelope, small_mammal and
+# other_animal have no SpeciesNet name.
+Aardvark,aardvark
+African civet,african_civet
+African elephant,african_savanna_elephant
+Acerodon species,bat
+African straw-coloured fruit-bat,bat
+Bat,bat
+Lesser dog-faced fruit bat,bat
+Myotis species,bat
+Northern bat,bat
+Nyctalus species,bat
+Plecotus species,bat
+Pteropodidae family,bat
+Rhinolophus species,bat
+Vampire bat,bat
+Vampyrum species,bat
+Vespertilionidae family,bat
+Aburria species,bird
+Acanthiza species,bird
+Acanthizidae family,bird
+Accipiter species,bird
+Accipitridae family,bird
+Accipitriformes order,bird
+Acorn woodpecker,bird
+African goshawk,bird
+African green pigeon,bird
+African harrier-hawk,bird
+African reed-warbler,bird
+African thrush,bird
+African wood-owl,bird
+Agami heron,bird
+Agelaius species,bird
+Albert's lyrebird,bird
+Alectoris species,bird
+Alpine accentor,bird
+Amazonian motmot,bird
+Amazonian scrub-flycatcher,bird
+American avocet,bird
+American bittern,bird
+American black duck,bird
+American black vulture,bird
+American coot,bird
+American crow,bird
+American dusky flycatcher,bird
+American herring gull,bird
+American kestrel,bird
+American redstart,bird
+American robin,bird
+American white pelican,bird
+American wigeon,bird
+American woodcock,bird
+Anas species,bird
+Anatidae family,bird
+Andean condor,bird
+Andean guan,bird
+Andean solitaire,bird
+Anhinga,bird
+Anna's hummingbird,bird
+Anseriformes order,bird
+Antrostomus species,bird
+Aphelocoma species,bird
+Aplomado falcon,bird
+Apodidae family,bird
+Apostlebird,bird
+Arabian babbler,bird
+Aramides species,bird
+Arborophila species,bird
+Arborófila pechicastaña,bird
+Archer's robin-chat,bird
+Ardeidae family,bird
+Argos real,bird
+Arremon species,bird
+Ash-throated crake,bird
+Ash-throated flycatcher,bird
+Ashy cuckooshrike,bird
+Ashy drongo,bird
+Ashy-headed babbler,bird
+Asian azure-winged magpie,bird
+Asian fairy-bluebird,bird
+Austral blackbird,bird
+Austral negrito,bird
+Austral thrush,bird
+Australasian bittern,bird
+Australasian figbird,bird
+Australasian grebe,bird
+Australasian pipit,bird
+Australian brush-turkey,bird
+Australian bustard,bird
+Australian golden whistler,bird
+Australian ibis,bird
+Australian king-parrot,bird
+Australian magpie,bird
+Australian owlet-nightjar,bird
+Australian raven,bird
+Australian ringneck,bird
+Australian shelduck,bird
+Australian shoveler,bird
+Australian swamphen,bird
+Australian zebra finch,bird
+Baglafecht weaver,bird
+Bald eagle,bird
+Bananaquit,bird
+Banded antbird,bird
+Banded pitta,bird
+Bar-backed partridge,bird
+Bar-bellied pitta,bird
+Bar-shouldered dove,bird
+Bar-winged cinclodes,bird
+Barbican à gorge grise,bird
+Bare-eyed robin,bird
+Bare-eyed thrush,bird
+Bare-faced curassow,bird
+Bare-faced ibis,bird
+Bare-throated tiger-heron,bird
+Barn swallow,bird
+Barred buttonquail,bird
+Barred cuckoo-dove,bird
+Barred forest-falcon,bird
+Barred owl,bird
+Bartlett's tinamou,bird
+Bassian thrush,bird
+Bateleur,bird
+Baudo guan,bird
+Bearded guan,bird
+Bearded wood-partridge,bird
+Belted kingfisher,bird
+Bewick's wren,bird
+Bird,bird
+Black bushbird,bird
+Black caracara,bird
+Black cuckoo,bird
+Black curassow,bird
+Black currawong,bird
+Black grouse,bird
+Black guineafowl,bird
+Black hawk-eagle,bird
+Black honeyeater,bird
+Black nunbird,bird
+Black phoebe,bird
+Black redstart,bird
+Black solitary eagle,bird
+Black sparrowhawk,bird
+Black stork,bird
+Black swan,bird
+Black woodpecker,bird
+Black-and-chestnut eagle,bird
+Black-and-white hawk-eagle,bird
+Black-and-white warbler,bird
+Black-backed water-tyrant,bird
+Black-bellied bustard,bird
+Black-bellied whistling-duck,bird
+Black-billed magpie,bird
+Black-billed thrush,bird
+Black-billed turaco,bird
+Black-breasted buzzard,bird
+Black-breasted thrush,bird
+Black-breasted wood-quail,bird
+Black-capped chickadee,bird
+Black-capped tinamou,bird
+Black-casqued hornbill,bird
+Black-chested snake-eagle,bird
+Black-collared hawk,bird
+Black-crowned night-heron,bird
+Black-eared ground-thrush,bird
+Black-faced antbird,bird
+Black-faced antthrush,bird
+Black-faced cuckooshrike,bird
+Black-faced hawk,bird
+Black-faced woodswallow,bird
+Black-fronted nunbird,bird
+Black-headed grosbeak,bird
+Black-headed gull,bird
+Black-headed hemispingus,bird
+Black-headed heron,bird
+Black-headed wagtail,bird
+Black-necked stilt,bird
+Black-spotted bare-eye,bird
+Black-streaked puffbird,bird
+Black-throated laughingthrush,bird
+Black-throated magpie-jay,bird
+Black-throated sparrow,bird
+Black-winged trumpeter,bird
+Blackish tapaculo,bird
+Blood pheasant,bird
+Blue coua,bird
+Blue crane,bird
+Blue eared-pheasant,bird
+Blue finch,bird
+Blue grosbeak,bird
+Blue ground-dove,bird
+Blue grouse,bird
+Blue jay,bird
+Blue paradise-flycatcher,bird
+Blue pitta,bird
+Blue whistling-thrush,bird
+Blue-and-black tanager,bird
+Blue-black grassquit,bird
+Blue-faced honeyeater,bird
+Blue-fronted robin,bird
+Blue-headed wood-dove,bird
+Blue-rumped pitta,bird
+Blue-spotted wood-dove,bird
+Blue-throated brown sunbird,bird
+Blue-throated piping-guan,bird
+Blue-winged pitta,bird
+Blue-winged teal,bird
+Blyth's hawk-eagle,bird
+Boat-billed heron,bird
+Boat-tailed grackle,bird
+Bonaparte's gull,bird
+Booted eagle,bird
+Bornean partridge,bird
+Bornean peacock-pheasant,bird
+Branta species,bird
+Brazilian tinamou,bird
+Brewer's blackbird,bird
+Broad-billed motmot,bird
+Broad-winged hawk,bird
+Bronze-tailed peacock-pheasant,bird
+Brotogeris species,bird
+Brown cuckoo-dove,bird
+Brown falcon,bird
+Brown goshawk,bird
+Brown noddy,bird
+Brown quail,bird
+Brown thrasher,bird
+Brown tinamou,bird
+Brown treecreeper,bird
+Brown wood-owl,bird
+Brown-capped emerald dove,bird
+Brown-capped weaver,bird
+Brown-chested alethe,bird
+Brown-headed cowbird,bird
+Brush bronzewing,bird
+Brève à poitrine fauve,bird
+Bubo species,bird
+Buckley's forest-falcon,bird
+Budgerigar,bird
+Buff-banded rail,bird
+Buff-bellied pipit,bird
+Buff-breasted wren,bird
+Buff-browed chachalaca,bird
+Buff-crested bustard,bird
+Buff-necked ibis,bird
+Buff-rumped thornbill,bird
+Bufflehead,bird
+Bullfinch,bird
+Bullock's oriole,bird
+Bulwer's pheasant,bird
+Buphagus species,bird
+Burrowing owl,bird
+Busard saint-martin,bird
+Bush thick-knee,bird
+Buteo species,bird
+Buteogallus species,bird
+Butorides species,bird
+Cacicus species,bird
+California gull,bird
+California quail,bird
+California scrub-jay,bird
+California thrasher,bird
+California towhee,bird
+Callipepla species,bird
+Calonectris species,bird
+Campephilus species,bird
+Campo flicker,bird
+Campo miner,bird
+Canada goose,bird
+Canyon towhee,bird
+Cape robin-chat,bird
+Capped heron,bird
+Caprimulgidae family,bird
+Caprimulgiformes order,bird
+Caprimulgus species,bird
+Cardinalidae family,bird
+Cardinalis species,bird
+Carolina chickadee,bird
+Carrion crow,bird
+Cassin's hawk-eagle,bird
+Cassin's kingbird,bird
+Cassin's sparrow,bird
+Cathartes species,bird
+Cathartidae family,bird
+Cathartiformes order,bird
+Catharus species,bird
+Cattle egret,bird
+Cave swiftlet,bird
+Cedar waxwing,bird
+Celeus species,bird
+Cercotrichas species,bird
+Certhiidae family,bird
+Chaco chachalaca,bird
+Chalk-browed mockingbird,bird
+Chamaeza species,bird
+Changeable hawk-eagle,bird
+Channel-billed toucan,bird
+Charadriidae family,bird
+Charadriiformes order,bird
+Chestnut teal,bird
+Chestnut thrush,bird
+Chestnut woodpecker,bird
+Chestnut-backed chickadee,bird
+Chestnut-bellied thrush,bird
+Chestnut-capped brush-finch,bird
+Chestnut-collared longspur,bird
+Chestnut-crowned antpitta,bird
+Chestnut-eared laughingthrush,bird
+Chestnut-naped antpitta,bird
+Chestnut-rumped heathwren,bird
+Chestnut-throated partridge,bird
+Chiguanco thrush,bird
+Chihuahuan raven,bird
+Chimango caracara,bird
+Chinese bamboo partridge,bird
+Chinese francolin,bird
+Chinese grouse,bird
+Chinese monal,bird
+Chipping sparrow,bird
+Chukar,bird
+Cinclodes species,bird
+Cinereous tinamou,bird
+Cinereous vulture,bird
+Cinnamon teal,bird
+Clark's nutcracker,bird
+Clay-colored sparrow,bird
+Coal tit,bird
+Cochlearius species,bird
+Cock-tailed tyrant,bird
+Cockatiel,bird
+Cocoa thrush,bird
+Cocoi heron,bird
+Colaptes species,bird
+Collared dove,bird
+Collared forest-falcon,bird
+Collared sparrowhawk,bird
+Columba species,bird
+Columbidae family,bird
+Columbiformes order,bird
+Columbina species,bird
+Common barn owl,bird
+Common black-hawk,bird
+Common blackbird,bird
+Common bronzewing,bird
+Common chaffinch,bird
+Common crane,bird
+Common emerald dove,bird
+Common firecrest,bird
+Common fiscal,bird
+Common gallinule,bird
+Common grackle,bird
+Common green magpie,bird
+Common ground-dove,bird
+Common kestrel,bird
+Common magpie,bird
+Common myna,bird
+Common nighthawk,bird
+Common ostrich,bird
+Common raven,bird
+Common redstart,bird
+Common squirrel-cuckoo,bird
+Common starling,bird
+Common woodpigeon,bird
+Common yellowthroat,bird
+Cooper's hawk,bird
+Coral-billed ground-cuckoo,bird
+Corvidae family,bird
+Corvus species,bird
+Coua species,bird
+Coua à tête rousse,bird
+Cracidae family,bird
+Crane hawk,bird
+Cranioleuca species,bird
+Crax species,bird
+Creamy-bellied thrush,bird
+Crested argus,bird
+Crested bellbird,bird
+Crested black-tyrant,bird
+Crested caracara,bird
+Crested eagle,bird
+Crested francolin,bird
+Crested goshawk,bird
+Crested guan,bird
+Crested lark,bird
+Crested oropendola,bird
+Crested partridge,bird
+Crested pigeon,bird
+Crested serpent-eagle,bird
+Crested shriketit,bird
+Crested tit,bird
+Crestless curassow,bird
+Crimson chat,bird
+Crimson rosella,bird
+Crimson-bellied woodpecker,bird
+Crimson-headed partridge,bird
+Crossley's vanga,bird
+Crotophaga species,bird
+Crowned eagle,bird
+Crowned hornbill,bird
+Crowned lapwing,bird
+Cryptic forest-falcon,bird
+Crypturellus species,bird
+Curl-crested araçari,bird
+Curl-crested jay,bird
+Curve-billed thrasher,bird
+Cyanistes species,bird
+Dacelo species,bird
+Dark-eyed junco,bird
+Dark-faced ground-tyrant,bird
+Dark-winged trumpeter,bird
+Dendrocolaptes species,bird
+Dendrocopos species,bird
+Diamond dove,bird
+Domestic chicken,bird
+Domestic goose,bird
+Double-crested cormorant,bird
+Downy woodpecker,bird
+Dusky antbird,bird
+Dusky moorhen,bird
+Dusky turtle-dove,bird
+Dusky woodswallow,bird
+Dusky-legged guan,bird
+Dwarf hornbill,bird
+Eagle owl,bird
+East brazilian chachalaca,bird
+Eastern bluebird,bird
+Eastern bristlebird,bird
+Eastern chanting-goshawk,bird
+Eastern great tit,bird
+Eastern imperial eagle,bird
+Eastern kingbird,bird
+Eastern moustached laughingthrush,bird
+Eastern phoebe,bird
+Eastern rosella,bird
+Eastern screech-owl,bird
+Eastern spinebill,bird
+Eastern spotted dove,bird
+Eastern whipbird,bird
+Eastern wood-pewee,bird
+Eastern yellow robin,bird
+Eastern yellow-billed hornbill,bird
+Egyptian goose,bird
+Emerald-spotted wood-dove,bird
+Emperor penguin,bird
+Empidonax species,bird
+Emu,bird
+Enicurus species,bird
+Eurasian buzzard,bird
+Eurasian hoopoe,bird
+Eurasian jackdaw,bird
+Eurasian sparrowhawk,bird
+Eurasian stone-curlew,bird
+Eurasian woodcock,bird
+Eurasian wryneck,bird
+European bee-eater,bird
+European pied flycatcher,bird
+European robin,bird
+European stonechat,bird
+European storm-petrel,bird
+European turtle-dove,bird
+Eyebrowed thrush,bird
+Faisán de carúncula azul,bird
+Faisán noble,bird
+Falco species,bird
+Falcon,bird
+Falconidae family,bird
+Fan-tailed cuckoo,bird
+Fasciated tiger-heron,bird
+Fauvette malgache,bird
+Ferruginous hawk,bird
+Ferruginous partridge,bird
+Ferruginous-backed antbird,bird
+Fieldfare,bird
+Fire-crested alethe,bird
+Fish crow,bird
+Flame robin,bird
+Flame-crested tanager,bird
+Flammulated owl,bird
+Forest francolin,bird
+Forest rock thrush,bird
+Fork-tailed flycatcher,bird
+Formicarius species,bird
+Francolinus species,bird
+Franklin's gull,bird
+Fringillidae family,bird
+Furnariidae family,bird
+Fuscous flycatcher,bird
+Gadwall,bird
+Galah,bird
+Galapagos petrel,bird
+Galliformes order,bird
+Gallinago species,bird
+Gallirex species,bird
+Gallus species,bird
+Gambel's quail,bird
+Garrulus species,bird
+Geopelia species,bird
+Geotrygon species,bird
+Giant cowbird,bird
+Gila woodpecker,bird
+Glossy antshrike,bird
+Glossy-black thrush,bird
+Golden babbler,bird
+Golden eagle,bird
+Golden pheasant,bird
+Golden-crowned kinglet,bird
+Golden-crowned sparrow,bird
+Golden-fronted woodpecker,bird
+Goldfinch,bird
+Gonolek de lühder,bird
+Gonolek à ventre blanc,bird
+Goosander,bird
+Goéland argenté,bird
+Grallaria species,bird
+Grasshopper sparrow,bird
+Gray-breasted wood-wren,bird
+Gray-cheeked thrush,bird
+Gray-lined hawk,bird
+Gray-winged trumpeter,bird
+Grayish saltator,bird
+Great antshrike,bird
+Great black hawk,bird
+Great black-backed gull,bird
+Great blue heron,bird
+Great blue turaco,bird
+Great bowerbird,bird
+Great crested flycatcher,bird
+Great curassow,bird
+Great horned owl,bird
+Great kiskadee,bird
+Great spotted woodpecker,bird
+Great thrush,bird
+Great tinamou,bird
+Great white egret,bird
+Great-billed hermit,bird
+Great-tailed grackle,bird
+Greater ani,bird
+Greater blue-eared starling,bird
+Greater coucal,bird
+Greater necklaced laughingthrush,bird
+Greater rhea,bird
+Greater roadrunner,bird
+Greater sage grouse,bird
+Greater white-fronted goose,bird
+Greater yellow-headed vulture,bird
+Greater yellowlegs,bird
+Green catbird,bird
+Green heron,bird
+Green ibis,bird
+Green jay,bird
+Green peafowl,bird
+Green woodhoopoe,bird
+Green woodpecker,bird
+Green-and-black fruiteater,bird
+Green-legged partridge,bird
+Green-winged teal,bird
+Grey butcherbird,bird
+Grey catbird,bird
+Grey crowned-crane,bird
+Grey currawong,bird
+Grey fantail,bird
+Grey goshawk,bird
+Grey greenbul,bird
+Grey heron,bird
+Grey honeyeater,bird
+Grey jay,bird
+Grey junglefowl,bird
+Grey laughingthrush,bird
+Grey monjita,bird
+Grey partridge,bird
+Grey peacock-pheasant,bird
+Grey shrike-thrush,bird
+Grey tinamou,bird
+Grey wagtail,bird
+Grey-backed thrush,bird
+Grey-cheeked hornbill,bird
+Grey-chested dove,bird
+Grey-crowned babbler,bird
+Grey-crowned rosy-finch,bird
+Grey-faced buzzard,bird
+Grey-fronted dove,bird
+Grey-headed canary-flycatcher,bird
+Grey-headed dove,bird
+Grey-headed honeyeater,bird
+Grey-headed oliveback,bird
+Grey-legged tinamou,bird
+Grey-necked rockfowl,bird
+Grey-necked wood-rail,bird
+Grey-throated rail,bird
+Grey-winged blackbird,bird
+Grey-winged francolin,bird
+Griffon vulture,bird
+Groove-billed ani,bird
+Gruiformes order,bird
+Guineafowl family,bird
+Guira cuckoo,bird
+Hadada ibis,bird
+Hainan blue-flycatcher,bird
+Hainan magpie,bird
+Hairy woodpecker,bird
+Hairy-crested antbird,bird
+Handsome francolin,bird
+Harlequin quail,bird
+Harpy eagle,bird
+Harris's hawk,bird
+Hartlaub's bustard,bird
+Hauxwell's thrush,bird
+Hazel grouse,bird
+Helmet vanga,bird
+Henst's goshawk,bird
+Hermit thrush,bird
+Highland motmot,bird
+Highland tinamou,bird
+Hildebrandt's francolin,bird
+Hildebrandt's starling,bird
+Hill blue-flycatcher,bird
+Himalayan griffon,bird
+Hispaniolan palm crow,bird
+Honeyeater family,bird
+Hooded crow,bird
+Hooded gnateater,bird
+Hooded merganser,bird
+Hooded robin,bird
+Hooded siskin,bird
+Hook-billed kite,bird
+Horned lark,bird
+Horned screamer,bird
+Horsfield's bronze-cuckoo,bird
+House finch,bird
+House sparrow,bird
+House wren,bird
+Hydropsalis species,bird
+Hylopezus species,bird
+Héron à dos vert,bird
+Iberian azure-winged magpie,bird
+Ibis olivâtre,bird
+Icteridae family,bird
+Icterus species,bird
+Imperial snipe,bird
+Indian peafowl,bird
+Indian pond-heron,bird
+Indochinese green magpie,bird
+Iringa akalat,bird
+Jabiru,bird
+Jackson's francolin,bird
+Japanese thrush,bird
+Javan banded pitta,bird
+Jay,bird
+Junco species,bird
+Jungle crow,bird
+Killdeer,bird
+King vulture,bird
+Knipolegus species,bird
+Koklass pheasant,bird
+Kori bustard,bird
+Lady amherst's pheasant,bird
+Lagopus species,bird
+Lanius species,bird
+Large scimitar-babbler,bird
+Large-billed scrubwren,bird
+Laridae family,bird
+Lark bunting,bird
+Lark sparrow,bird
+Larus species,bird
+Laughing dove,bird
+Laughing kookaburra,bird
+Leaden flycatcher,bird
+Least bittern,bird
+Leiotrichidae family,bird
+Lemon dove,bird
+Lepidocolaptes species,bird
+Leptodon species,bird
+Leptotila species,bird
+Lesser black-backed gull,bird
+Lesser goldfinch,bird
+Lesser honeyguide,bird
+Lesser nighthawk,bird
+Lesser yellow-headed vulture,bird
+Lesser yellownape,bird
+Lewin's honeyeater,bird
+Lewin's rail,bird
+Lilac-breasted roller,bird
+Limestone wren-babbler,bird
+Limpkin,bird
+Lined forest-falcon,bird
+Little blue heron,bird
+Little buttonquail,bird
+Little chachalaca,bird
+Little corella,bird
+Little crow,bird
+Little cuckoo-dove,bird
+Little greenbul,bird
+Little nightjar,bird
+Little owl,bird
+Little penguin,bird
+Little raven,bird
+Little sparrowhawk,bird
+Little tinamou,bird
+Little wattlebird,bird
+Livingstone's turaco,bird
+Loggerhead shrike,bird
+Logrunner,bird
+Long-billed curlew,bird
+Long-billed dowitcher,bird
+Long-billed hermit,bird
+Long-billed thrasher,bird
+Long-eared owl,bird
+Long-legged buzzard,bird
+Long-tailed finch,bird
+Lophura species,bird
+Lowland akalat,bird
+Ludwig's bustard,bird
+Madagascar buzzard,bird
+Madagascar cisticola,bird
+Madagascar crested ibis,bird
+Madagascar cuckoo,bird
+Madagascar flufftail,bird
+Madagascar long-eared owl,bird
+Madagascar paradise-flycatcher,bird
+Madagascar rail,bird
+Madagascar serpent-eagle,bird
+Madagascar sparrowhawk,bird
+Madagascar turtle-dove,bird
+Madagascar wagtail,bird
+Madagascar wood-rail,bird
+Magpie-lark,bird
+Maguari stork,bird
+Malagasy turtle dove,bird
+Malay banded pitta,bird
+Malay night-heron,bird
+Mallard,bird
+Malurus species,bird
+Maned duck,bird
+Marail guan,bird
+Marbled godwit,bird
+Marbled wood-quail,bird
+Marsh wren,bird
+Masatierra petrel,bird
+Masked lapwing,bird
+Masked saltator,bird
+Masked woodswallow,bird
+Megapodiidae family,bird
+Meleagris species,bird
+Melozone species,bird
+Menura species,bird
+Menuridae family,bird
+Merle dyal malgache,bird
+Merops species,bird
+Mesembrinibis species,bird
+Mew gull,bird
+Mexican jay,bird
+Micrastur species,bird
+Micronesian scrubfowl,bird
+Middle american screech-owl,bird
+Mimidae family,bird
+Mirafra species,bird
+Mistle thrush,bird
+Mitu species,bird
+Monasa species,bird
+Montezuma quail,bird
+Moorhen,bird
+Moorland francolin,bird
+Motacilla species,bird
+Mottled duck,bird
+Mottled owl,bird
+Mountain bamboo-partridge,bird
+Mountain bluebird,bird
+Mountain chickadee,bird
+Mountain hawk-eagle,bird
+Mountain imperial-pigeon,bird
+Mountain quail,bird
+Mountain scops-owl,bird
+Mountain warbler,bird
+Mourning collared-dove,bird
+Mourning dove,bird
+Moustached grass-warbler,bird
+Muscicapidae family,bird
+Muscovy duck,bird
+Mute swan,bird
+Myrmoborus species,bird
+Myrtle warbler,bird
+Neomorphus species,bird
+Neumann's warbler,bird
+New holland honeyeater,bird
+Nicobar pigeon,bird
+Nkulengu rail,bird
+Nocturnal curassow,bird
+Noisy friarbird,bird
+Noisy miner,bird
+Noisy pitta,bird
+Northern band-tailed pigeon,bird
+Northern bobwhite,bird
+Northern cardinal,bird
+Northern flicker,bird
+Northern goshawk,bird
+Northern harrier,bird
+Northern mockingbird,bird
+Northern pintail,bird
+Northern royal flycatcher,bird
+Northern wheatear,bird
+Northern white-crowned shrike,bird
+Northwestern crow,bird
+Nothocrax species,bird
+Nothura species,bird
+Nutcracker,bird
+Nuthatch,bird
+Nuttall's woodpecker,bird
+Nyctibius species,bird
+Oak titmouse,bird
+Ocellated turkey,bird
+Ochre-winged trumpeter,bird
+Ochthoeca species,bird
+Odontophoridae family,bird
+Odontophorus species,bird
+Oenanthe species,bird
+Olive sparrow,bird
+Olive thrush,bird
+Olive whistler,bird
+Olive woodpecker,bird
+Olive-backed oriole,bird
+Olive-winged trumpeter,bird
+Orange ground-thrush,bird
+Orange-backed troupial,bird
+Orange-bellied flowerpecker,bird
+Orange-breasted forest-robin,bird
+Orange-breasted trogon,bird
+Orange-flanked bush-robin,bird
+Orange-headed thrush,bird
+Oriental honey-buzzard,bird
+Oriental magpie-robin,bird
+Orinoco goose,bird
+Ornate hawk-eagle,bird
+Ortalis species,bird
+Otus species,bird
+Ovenbird,bird
+Owl,bird
+Pacific black duck,bird
+Painted button-quail,bird
+Painted quail-thrush,bird
+Palawan blue-flycatcher,bird
+Palawan bulbul,bird
+Palawan flowerpecker,bird
+Palawan flycatcher,bird
+Palawan peacock-pheasant,bird
+Palawan scops-owl,bird
+Palawan spiderhunter,bird
+Pale-breasted thrush,bird
+Pale-crested woodpecker,bird
+Pale-headed rosella,bird
+Pale-legged hornero,bird
+Pale-naped brush-finch,bird
+Pale-vented pigeon,bird
+Palestine sunbird,bird
+Palm warbler,bird
+Paradise riflebird,bird
+Paridae family,bird
+Paroaria species,bird
+Parulidae family,bird
+Passer species,bird
+Passerellidae family,bird
+Passeridae family,bird
+Passeriformes order,bird
+Passerina species,bird
+Patagioenas species,bird
+Pauraque,bird
+Pauxi species,bird
+Pavonine cuckoo,bird
+Peaceful dove,bird
+Pechora pipit,bird
+Pectoral sparrow,bird
+Pel's fishing-owl,bird
+Pelecaniformes order,bird
+Penelope species,bird
+Penelopina species,bird
+Peregrine falcon,bird
+Petroicidae family,bird
+Phaethornis species,bird
+Phainopepla,bird
+Phainopepla species,bird
+Phaps species,bird
+Phasianidae family,bird
+Phasianus species,bird
+Pheasant coucal,bird
+Philippine scrubfowl,bird
+Phyllastrephus species,bird
+Picazuro pigeon,bird
+Picidae family,bird
+Picoides species,bird
+Pied butcherbird,bird
+Pied currawong,bird
+Pied lapwing,bird
+Pied oystercatcher,bird
+Pied-billed grebe,bird
+Pigeon rameron,bird
+Pileated woodpecker,bird
+Pilotbird,bird
+Pin-striped tit-babbler,bird
+Pine warbler,bird
+Pink robin,bird
+Pink-footed goose,bird
+Pink-footed shearwater,bird
+Pinnated bittern,bird
+Pintade huppée,bird
+Pinyon jay,bird
+Pipile species,bird
+Pitta species,bird
+Pitta-like ground-roller,bird
+Plain chachalaca,bird
+Plain-breasted ground-dove,bird
+Plain-brown woodcreeper,bird
+Plumbeous antbird,bird
+Plumbeous ibis,bird
+Plumbeous kite,bird
+Plumbeous pigeon,bird
+Plumed guineafowl,bird
+Plush-crested jay,bird
+Poecile species,bird
+Powerful woodpecker,bird
+Prairie falcon,bird
+Procellariidae family,bird
+Psarocolius species,bird
+Psittacidae family,bird
+Psophia species,bird
+Psophiidae family,bird
+Psophodes species,bird
+Ptilonorhynchidae family,bird
+Puff-throated babbler,bird
+Puna snipe,bird
+Purple swamphen,bird
+Purple-backed fairy-wren,bird
+Purple-breasted sunbird,bird
+Purple-throated cotinga,bird
+Purplish jay,bird
+Pycnonotus species,bird
+Quail species,bird
+Quiscalus species,bird
+Rail-babbler,bird
+Rainbow bee-eater,bird
+Rallidae family,bird
+Ramphastidae family,bird
+Ramphastos species,bird
+Razor-billed curassow,bird
+Red fox-sparrow,bird
+Red junglefowl,bird
+Red spurfowl,bird
+Red wattlebird,bird
+Red-backed buttonquail,bird
+Red-backed fairy-wren,bird
+Red-bellied woodpecker,bird
+Red-billed blue magpie,bird
+Red-billed chough,bird
+Red-billed partridge,bird
+Red-billed scythebill,bird
+Red-billed toucan,bird
+Red-breasted coua,bird
+Red-breasted nuthatch,bird
+Red-browed finch,bird
+Red-browed treecreeper,bird
+Red-cockaded woodpecker,bird
+Red-collared woodpecker,bird
+Red-fronted coua,bird
+Red-headed flameback,bird
+Red-headed woodpecker,bird
+Red-legged crake,bird
+Red-legged partridge,bird
+Red-legged seriema,bird
+Red-legged tinamou,bird
+Red-naped sapsucker,bird
+Red-necked woodpecker,bird
+Red-shafted flicker,bird
+Red-shouldered hawk,bird
+Red-tailed ant-thrush,bird
+Red-tailed bristlebill,bird
+Red-tailed hawk,bird
+Red-tailed laughingthrush,bird
+Red-throated alethe,bird
+Red-throated piping-guan,bird
+Red-wattled lapwing,bird
+Red-winged blackbird,bird
+Red-winged tinamou,bird
+Red-winged wood-rail,bird
+Redwing,bird
+Reeves's pheasant,bird
+Regal sunbird,bird
+Reunion stonechat,bird
+Rhynchotus species,bird
+Ridgway's hawk,bird
+Ring ouzel,bird
+Ring-billed gull,bird
+Ring-necked dove,bird
+Ring-necked duck,bird
+Ring-necked pheasant,bird
+Ringed antpipit,bird
+Ringed kingfisher,bird
+Roadside hawk,bird
+Rock dove,bird
+Rock partridge,bird
+Rock warbler,bird
+Rock wren,bird
+Rook,bird
+Rose robin,bird
+Roseate spoonbill,bird
+Ross's turaco,bird
+Rough-legged buzzard,bird
+Ruby-crowned kinglet,bird
+Ruddy ground-dove,bird
+Ruddy kingfisher,bird
+Ruddy quail-dove,bird
+Rufescent tiger-heron,bird
+Ruffed grouse,bird
+Rufous antpitta,bird
+Rufous fantail,bird
+Rufous hornero,bird
+Rufous motmot,bird
+Rufous songlark,bird
+Rufous whistler,bird
+Rufous-bellied thrush,bird
+Rufous-breasted antthrush,bird
+Rufous-breasted hermit,bird
+Rufous-breasted wood-quail,bird
+Rufous-browed babbler,bird
+Rufous-capped antthrush,bird
+Rufous-cheeked laughingthrush,bird
+Rufous-collared sparrow,bird
+Rufous-crowned sparrow,bird
+Rufous-fronted antthrush,bird
+Rufous-fronted wood-quail,bird
+Rufous-headed ground-roller,bird
+Rufous-headed pygmy-tyrant,bird
+Rufous-naped brush finch,bird
+Rufous-necked hornbill,bird
+Rufous-sided towhee,bird
+Rufous-tailed fantail,bird
+Rufous-tailed robin,bird
+Rufous-tailed tailorbird,bird
+Rufous-throated partridge,bird
+Rufous-vented ground-cuckoo,bird
+Rufous-vented niltava,bird
+Rufous-winged ground-cuckoo,bird
+Russet-backed oropendola,bird
+Russet-backed thrush,bird
+Russet-crowned motmot,bird
+Russet-crowned warbler,bird
+Rusty blackbird,bird
+Rusty-belted tapaculo,bird
+Rusty-margined guan,bird
+Rusty-naped pitta,bird
+Ruwenzori turaco,bird
+Saffron-billed sparrow,bird
+Sage thrasher,bird
+Salvin's curassow,bird
+Sand partridge,bird
+Sandhill crane,bird
+Sapphire quail-dove,bird
+Sardinian warbler,bird
+Satin bowerbird,bird
+Savanna hawk,bird
+Say's phoebe,bird
+Scaled antpitta,bird
+Scaled dove,bird
+Scaled ground-cuckoo,bird
+Scaled pigeon,bird
+Scaly francolin,bird
+Scaly ground-roller,bird
+Scaly thrush,bird
+Scarlet robin,bird
+Schalow's turaco,bird
+Schneider's pitta,bird
+Scissor-tailed flycatcher,bird
+Scolopacidae family,bird
+Scrubwren species,bird
+Secretarybird,bird
+Sharp-tailed grouse,bird
+Shiny cowbird,bird
+Shiny whistling-thrush,bird
+Short-eared owl,bird
+Short-tailed antthrush,bird
+Short-tailed babbler,bird
+Short-tailed shearwater,bird
+Short-toed treecreeper,bird
+Sialia species,bird
+Siamese fireback,bird
+Siberian blue robin,bird
+Siberian jay,bird
+Siberian thrush,bird
+Sichuan partridge,bird
+Sickle-winged guan,bird
+Silver pheasant,bird
+Silver-beaked tanager,bird
+Silver-eared leiothrix,bird
+Silvereye,bird
+Silvery-cheeked hornbill,bird
+Singing honeyeater,bird
+Slate-colored hawk,bird
+Slate-coloured boubou,bird
+Slaty-backed forest-falcon,bird
+Slaty-backed forktail,bird
+Slaty-blue flycatcher,bird
+Slaty-breasted rail,bird
+Slaty-breasted tinamou,bird
+Slaty-crowned antpitta,bird
+Slaty-legged crake,bird
+Slender-billed crow,bird
+Slender-billed flufftail,bird
+Slender-billed greenbul,bird
+Slender-billed kite,bird
+Smooth-billed ani,bird
+Snail kite,bird
+Snow partridge,bird
+Snowy egret,bird
+Snowy-crowned robin-chat,bird
+Solitary cacique,bird
+Solitary sandpiper,bird
+Solitary tinamou,bird
+Song sparrow,bird
+Song thrush,bird
+Sooty antbird,bird
+Sooty babbler,bird
+Sooty grouse,bird
+Sooty oystercatcher,bird
+Sora,bird
+Southern black-flycatcher,bird
+Southern boobook,bird
+Southern caracara,bird
+Southern emu-wren,bird
+Southern screamer,bird
+Southern wing-banded antbird,bird
+Speckled chachalaca,bird
+Speckled hummingbird,bird
+Speckled warbler,bird
+Spectacled bulbul,bird
+Spinifex pigeon,bird
+Spinifexbird,bird
+Spix's guan,bird
+Sporophila species,bird
+Spot-breasted scimitar-babbler,bird
+Spot-breasted woodpecker,bird
+Spot-winged antbird,bird
+Spot-winged wood-quail,bird
+Spotless crake,bird
+Spotless starling,bird
+Spotted nightingale-thrush,bird
+Spotted nightjar,bird
+Spotted nothura,bird
+Spotted pardalote,bird
+Spotted quail-thrush,bird
+Spotted sandpiper,bird
+Spotted thick-knee,bird
+Spotted towhee,bird
+Spotted turtle-dove,bird
+Spruce grouse,bird
+Square-tailed drongo,bird
+Starred wood-quail,bird
+Steller's jay,bird
+Steppe eagle,bird
+Stock dove,bird
+Straight-billed woodcreeper,bird
+Strange weaver,bird
+Streak-breasted scimitar babbler,bird
+Streaked tuftedcheek,bird
+Streaked wren-babbler,bird
+Strepera species,bird
+Streptopelia species,bird
+Striated antthrush,bird
+Striated heron,bird
+Striated pardalote,bird
+Strigidae family,bird
+Stripe-breasted tit,bird
+Stripe-faced wood-quail,bird
+Stripe-headed antpitta,bird
+Striped cuckoo,bird
+Striped owl,bird
+Strix species,bird
+Sturnella species,bird
+Sturnidae family,bird
+Sturnus species,bird
+Sulphur-crested cockatoo,bird
+Sumatran treepie,bird
+Sunbittern,bird
+Sunda whistling-thrush,bird
+Superb fairy-wren,bird
+Superb lyrebird,bird
+Superb starling,bird
+Swainson's hawk,bird
+Swainson's thrush,bird
+Swamp sparrow,bird
+Sylvia species,bird
+Tachyphonus species,bird
+Tambourine dove,bird
+Tataupa tinamou,bird
+Tawny eagle,bird
+Tawny frogmouth,bird
+Tawny owl,bird
+Tawny-breasted tinamou,bird
+Tawny-crowned honeyeater,bird
+Tawny-headed swallow,bird
+Tawny-rumped tyrannulet,bird
+Tawny-throated leaftosser,bird
+Temminck's tragopan,bird
+Thamnophilus species,bird
+Thick-billed warbler,bird
+Threskiornithidae family,bird
+Thrush-like antpitta,bird
+Thryothorus species,bird
+Tibetan partridge,bird
+Tibetan snowcock,bird
+Tigrisoma species,bird
+Tinamidae family,bird
+Tinamotis species,bird
+Tinamus species,bird
+Toco toucan,bird
+Topknot pigeon,bird
+Torresian crow,bird
+Townsend's solitaire,bird
+Trichodere species,bird
+Tricolored heron,bird
+Trinidad piping-guan,bird
+Trochilidae family,bird
+Troglodytidae family,bird
+Tropical kingbird,bird
+Trumpeter hornbill,bird
+Tufted titmouse,bird
+Turdidae family,bird
+Turdoides species,bird
+Turdus species,bird
+Turkey vulture,bird
+Turnicidae family,bird
+Turquoise parrot,bird
+Tyrannidae family,bird
+Tyrannus species,bird
+Tyto species,bird
+Udzungwa forest-partridge,bird
+Undulated antpitta,bird
+Undulated tinamou,bird
+Upland sandpiper,bird
+Varied thrush,bird
+Variegated antpitta,bird
+Variegated fairy-wren,bird
+Variegated tinamou,bird
+Veery,bird
+Vesper sparrow,bird
+Violaceous jay,bird
+Violaceous quail-dove,bird
+Virginia rail,bird
+Von der decken's hornbill,bird
+Vulturine guineafowl,bird
+Wallace's hawk-eagle,bird
+Wattled guan,bird
+Wattled jacana,bird
+Wedge-tailed eagle,bird
+Western bluebird,bird
+Western bowerbird,bird
+Western capercaillie,bird
+Western grebe,bird
+Western hooded pitta,bird
+Western kingbird,bird
+Western meadowlark,bird
+Western rosella,bird
+Western screech-owl,bird
+Western spinebill,bird
+Western spotted dove,bird
+Western tanager,bird
+Western tawny antpitta,bird
+Western wood-pewee,bird
+Whistling heron,bird
+Whistling kite,bird
+White cockatoo,bird
+White eared-pheasant,bird
+White hawk,bird
+White ibis,bird
+White stork,bird
+White-backed fire-eye,bird
+White-bearded hermit,bird
+White-bellied antpitta,bird
+White-bellied bustard,bird
+White-bellied go-away-bird,bird
+White-bellied sea-eagle,bird
+White-bellied storm-petrel,bird
+White-bellied woodpecker,bird
+White-breasted nigrita,bird
+White-breasted nuthatch,bird
+White-browed babbler,bird
+White-browed guan,bird
+White-browed hawk,bird
+White-browed scrubwren,bird
+White-cheeked honeyeater,bird
+White-chested alethe,bird
+White-crested guan,bird
+White-crested laughingthrush,bird
+White-crowned forktail,bird
+White-crowned sparrow,bird
+White-eared honeyeater,bird
+White-eared puffbird,bird
+White-eyed slaty-flycatcher,bird
+White-faced heron,bird
+White-faced ibis,bird
+White-fronted nunbird,bird
+White-headed woodhoopoe,bird
+White-necked raven,bird
+White-necked thrush,bird
+White-plumed honeyeater,bird
+White-rumped monjita,bird
+White-rumped shama,bird
+White-spectacled bulbul,bird
+White-spotted flufftail,bird
+White-starred robin,bird
+White-tailed blue robin,bird
+White-tailed hawk,bird
+White-tailed hornbill,bird
+White-tailed ptarmigan,bird
+White-throated oxylabes,bird
+White-throated quail-dove,bird
+White-throated rail,bird
+White-throated redstart,bird
+White-throated sparrow,bird
+White-throated tinamou,bird
+White-throated treecreeper,bird
+White-tipped dove,bird
+White-vented shama,bird
+White-vented violet-ear,bird
+White-winged chough,bird
+White-winged cinclodes,bird
+White-winged dove,bird
+White-winged magpie,bird
+White-winged triller,bird
+White-winged trumpeter,bird
+Wild turkey,bird
+Willet,bird
+Williamson's sapsucker,bird
+Willie wagtail,bird
+Willow grouse,bird
+Willow tit,bird
+Wilson's phalarope,bird
+Wilson's snipe,bird
+Wilson's warbler,bird
+Wonga pigeon,bird
+Wood duck,bird
+Wood snipe,bird
+Wood stork,bird
+Wood thrush,bird
+Woodhouse's scrub-jay,bird
+Wren,bird
+Xenoperdix species,bird
+Yellow crowned-wagtail,bird
+Yellow warbler,bird
+Yellow-billed cacique,bird
+Yellow-billed chough,bird
+Yellow-billed magpie,bird
+Yellow-breasted chat,bird
+Yellow-crested cockatoo,bird
+Yellow-crowned night-heron,bird
+Yellow-eyed black-flycatcher,bird
+Yellow-faced honeyeater,bird
+Yellow-headed amazon,bird
+Yellow-headed blackbird,bird
+Yellow-lored bristlebill,bird
+Yellow-necked francolin,bird
+Yellow-rumped cacique,bird
+Yellow-rumped flycatcher,bird
+Yellow-rumped marshbird,bird
+Yellow-streaked greenbul,bird
+Yellow-tailed black-cockatoo,bird
+Yellow-throated miner,bird
+Yellow-throated scrubwren,bird
+Yellow-tufted honeyeater,bird
+Yellow-whiskered greenbul,bird
+Zenaida species,bird
+Zoothera species,bird
+Blue monkey,blue_monkey
+Bushpig,bushpig
+African buffalo,cape_buffalo
+Bushbuck,cape_bushbuck
+Cape porcupine,cape_porcupine
+Hystrix species,cape_porcupine
+Common duiker,common_duiker
+Common eland,common_eland
+Common warthog,common_warthog
+Waterbuck,common_waterbuck
+Bos species,domestic_cattle
+Domestic cattle,domestic_cattle
+Domestic dog,domestic_dog
+Capra species,domestic_goat
+Domestic goat,domestic_goat
+Demidoff's dwarf galago,galago
+Galago species,galago
+Garnett's greater galago,galago
+Northern lesser galago,galago
+Northern needle-clawed galago,galago
+Southern needle-clawed galago,galago
+Spectacled lesser galago,galago
+Thick-tailed greater galago,galago
+Thomas's dwarf galago,galago
+Cape genet,genet
+Common genet,genet
+Genetta species,genet
+Giant genet,genet
+Large-spotted genet,genet
+Servaline genet,genet
+Greater kudu,greater_kudu
+Helmeted guineafowl,helmeted_guineafowl
+Honey badger,honey_badger
+Impala,impala
+Klipspringer,klipspringer
+Leopard,leopard
+Panthera species,leopard
+Banded mongoose,mongoose
+Black-legged mongoose,mongoose
+Bushy-tailed mongoose,mongoose
+Cape grey mongoose,mongoose
+Collared mongoose,mongoose
+Common cusimanse,mongoose
+Common dwarf mongoose,mongoose
+Common slender mongoose,mongoose
+Crab-eating mongoose,mongoose
+Egyptian mongoose,mongoose
+Herpestidae family,mongoose
+Indian grey mongoose,mongoose
+Jackson's mongoose,mongoose
+Javan mongoose,mongoose
+Long-nosed mongoose,mongoose
+Marsh mongoose,mongoose
+Meerkat,mongoose
+Ruddy mongoose,mongoose
+Short-tailed mongoose,mongoose
+Small indian mongoose,mongoose
+Sokoke dog mongoose,mongoose
+White-tailed mongoose,mongoose
+Yellow mongoose,mongoose
+African palm civet,palm_civet
+Equus species,plains_zebra
+Plains zebra,plains_zebra
+Cephalophus species,red_duiker
+Natal red duiker,red_duiker
+Roan antelope,roan
+Sable antelope,sable
+Lepus species,scrub_hare
+Scrub hare,scrub_hare
+Serval,serval
+Sharpe's grysbok,sharpes_grysbok
+Side-striped jackal,side-striped_jackal
+Southern ground-hornbill,southern_ground_hornbill
+Reedbuck species,southern_reedbuck
+Spotted hyaena,spotted_hyena
+Abert's squirrel,squirrel
+African giant squirrel,squirrel
+Alpine marmot,squirrel
+Amazon dwarf squirrel,squirrel
+Arizona black-tailed prairie dog,squirrel
+Arizona gray squirrel,squirrel
+Belding's ground squirrel,squirrel
+Berdmore's squirrel,squirrel
+Black and red bush squirrel,squirrel
+Black flying squirrel,squirrel
+Black giant squirrel,squirrel
+Boehm's bush squirrel,squirrel
+Bolivian squirrel,squirrel
+Brazilian squirrel,squirrel
+California chipmunk,squirrel
+California ground squirrel,squirrel
+Carolina flying squirrel,squirrel
+Carruther's mountain squirrel,squirrel
+Cascade golden-mantled ground squirrel,squirrel
+Caucasian squirrel,squirrel
+Cliff chipmunk,squirrel
+Collie's squirrel,squirrel
+Colorado chipmunk,squirrel
+Columbian ground squirrel,squirrel
+Common palm squirrel,squirrel
+Complex-toothed flying squirrel,squirrel
+Congo rope squirrel,squirrel
+Cynomys species,squirrel
+Deppe's squirrel,squirrel
+Douglas's squirrel,squirrel
+Eastern chipmunk,squirrel
+Eastern fox squirrel,squirrel
+Eastern gray squirrel,squirrel
+Eurasian red squirrel,squirrel
+Eutamias species,squirrel
+Fire-footed rope squirrel,squirrel
+Glaucomys species,squirrel
+Golden mantled ground squirrel,squirrel
+Grey-bellied squirrel,squirrel
+Guayaquil squirrel,squirrel
+Guianan squirrel,squirrel
+Harris's antelope squirrel,squirrel
+Himalayan marmot,squirrel
+Hoary marmot,squirrel
+Horse-tailed squirrel,squirrel
+Indian giant flying squirrel,squirrel
+Indian giant squirrel,squirrel
+Least chipmunk,squirrel
+Lesser tropical ground squirel,squirrel
+Lodgepole chipmunk,squirrel
+Long-tailed ground squirrel,squirrel
+Low's squirrel,squirrel
+Maritime striped squirrel,squirrel
+Marmota species,squirrel
+Merriam's chipmunk,squirrel
+Mexican flying squirrel,squirrel
+Mexican fox squirrel,squirrel
+Mexican gray squirrel,squirrel
+Mexican ground squirrel,squirrel
+Microsciurus species,squirrel
+Mongolian marmot,squirrel
+Neotamias species,squirrel
+Northern amazon red squirrel,squirrel
+Northern palawan tree squirrel,squirrel
+Ochre bush squirrel,squirrel
+Orange headed tree squirrel,squirrel
+Pale giant squirrel,squirrel
+Pallas's squirrel,squirrel
+Particolored flying squirrel,squirrel
+Perny's long-nosed squirrel,squirrel
+Petaurista species,squirrel
+Philippine tree squirrel,squirrel
+Plantain squirrel,squirrel
+Prevost's squirrel,squirrel
+Pére david's rock squirrel,squirrel
+Red bush squirrel,squirrel
+Red giant flying squirrel,squirrel
+Red squirrel,squirrel
+Red-cheeked ground squirrel,squirrel
+Red-cheeked squirrel,squirrel
+Red-legged sun squirrel,squirrel
+Red-tailed squirrel,squirrel
+Redness tree squirrel,squirrel
+Ribboned rope squirrel,squirrel
+Richardson's ground squirrel,squirrel
+Ring-tailed ground squirrel,squirrel
+Rock squirrel,squirrel
+Round-tailed ground squirrel,squirrel
+Ruwenzori sun squirrel,squirrel
+Sciuridae family,squirrel
+Sciurillus species,squirrel
+Sciurus species,squirrel
+Shadow chipmunk,squirrel
+Shrew-faced squirrel,squirrel
+Siberian chipmunk,squirrel
+Siskiyou chipmunk,squirrel
+Slender squirrel,squirrel
+Smith's bush squirrel,squirrel
+Sonoma chipmunk,squirrel
+Southern amazon red squirrel,squirrel
+Spotted giant flying squirrel,squirrel
+Striped ground squirrel,squirrel
+Svynnerton's bush squirrel,squirrel
+Swinhoe's striped squirrel,squirrel
+Tamias species,squirrel
+Tamiasciurus species,squirrel
+Tamiops species,squirrel
+Three-striped ground squirrel,squirrel
+Townsend's chipmunk,squirrel
+Tufted ground squirrel,squirrel
+Uinta chipmunk,squirrel
+Uinta ground squirrel,squirrel
+Unstriped ground squirrel,squirrel
+Urocitellus species,squirrel
+Variable squirrel,squirrel
+Variegated squirrel,squirrel
+Western gray squirrel,squirrel
+White-tailed antelope squirrel,squirrel
+White-tailed prairie dog,squirrel
+Woodchuck,squirrel
+Xerus species,squirrel
+Yellow-bellied marmot,squirrel
+Yellow-pine chipmunk,squirrel
+Vervet monkey,vervet_monkey
+Baboon species,yellow_baboon
+Yellow baboon,yellow_baboon
