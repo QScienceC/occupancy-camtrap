@@ -19,6 +19,7 @@ Every review is simulated: reviewing an image means saving its label from the pu
 | 3. Run the experiments | Python, NumPy, SciPy, scikit-learn | `src/occreview/` |
 | 4. Tables and figures | Python | `scripts/` |
 
+
 Step 2 is the only one that needs WildObserve, which is commercial software. Its exported data, the input to step 3, are archived on Zenodo (10.5281/zenodo.23734806), so steps 3 and 4 can be repeated with open code alone. Reviewers can request a WildObserve license with every feature from the author.
 
 ## The data (step 2's output)
@@ -33,7 +34,7 @@ The surveys are Caltech Camera Traps (`cct_occupancy`), WSU Lynx (`wsu_lynx_occu
 
 ## Running the experiments
 
-With [uv](https://docs.astral.sh/uv/) and the data in `data/`:
+With [uv](https://docs.astral.sh/uv/), and `data.zip` from Zenodo unzipped in the repository's root (it makes `data/`):
 
 ```sh
 uv sync
@@ -49,6 +50,8 @@ uv run occreview procedure --survey nkhotakota_occupancy --seeds 2 5 10
 ```
 
 The whole set takes about 8 minutes on a laptop. Then the paper's tables and figures, from `results/` (run from the repository's root):
+`results.zip` on Zenodo holds the results the paper reports; unzip it in the root to make the tables and figures without rerunning step 3.
+
 
 ```sh
 uv run python scripts/strategy_report.py results/strategy-*.json --effort-table effort_table.tex
