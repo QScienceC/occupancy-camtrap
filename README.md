@@ -19,7 +19,7 @@ Every review is simulated: reviewing an image means saving its label from the pu
 | 3. Run the experiments | Python, NumPy, SciPy, scikit-learn | `src/occreview/` |
 | 4. Tables and figures | Python | `scripts/` |
 
-Step 2 is the only one that needs WildObserve, which is commercial software. Its exported data, the input to step 3, are archived on Zenodo (DOI to come), so steps 3 and 4 can be repeated with open code alone. Reviewers can request a WildObserve license with every feature from the author.
+Step 2 is the only one that needs WildObserve, which is commercial software. Its exported data, the input to step 3, are archived on Zenodo (10.5281/zenodo.23734806), so steps 3 and 4 can be repeated with open code alone. Reviewers can request a WildObserve license with every feature from the author.
 
 ## The data (step 2's output)
 
